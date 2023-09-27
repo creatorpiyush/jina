@@ -12,3 +12,4 @@ furo
 myst-parser==0.15.1
 sphinx-design
 sphinx-inline-tabs
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
